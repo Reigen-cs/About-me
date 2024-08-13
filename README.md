@@ -9,6 +9,7 @@ This is a **sample project** to demonstrate how to use Markdown.
 - Easy to write
 - Easy to read
 - Widely supported
+- On Windows and Mac
 
 ### Installation
 
