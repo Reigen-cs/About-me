@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Younes Oussaifi, aka Reigen / Nixfe !
 
-Welcome to my GitHub! I'm a cybersecurity trainee currently studying at Becode, with a background in **IT**, **visual communication**, and **social design**. I'm excited to share my journey as I pivot from graphic design to a field that both challenges and inspires me every day—cybersecurity. 
+I'm a cybersecurity trainee currently studying at Becode, with a background in **IT**, **visual communication**, and **social design**. I'm excited to share my journey as I pivot from graphic design to a field that both challenges and inspires me every day—cybersecurity. 
 
 ## 🛡️ About Me
 With a diverse set of skills and experiences, my goal is to bring creative problem-solving and technical expertise to cybersecurity. Here's a bit more about my journey:
